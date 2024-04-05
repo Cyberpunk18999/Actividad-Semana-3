@@ -1,4 +1,4 @@
-#Aplicacion Distribuidora Semana 3
+Aplicacion Distribuidora Semana 3
 
 <p>
 Requerimientos funcionales y no funcionales del proyecto.
