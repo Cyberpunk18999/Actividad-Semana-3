@@ -1,10 +1,10 @@
-Aplicacion Distribuidora Semana 3
+# Aplicacion Distribuidora Semana 3
 
 <p>
 Requerimientos funcionales y no funcionales del proyecto.
 </p>
 
-###Requerimientos funcionales encontrados
+### Requerimientos funcionales encontrados
 
 -Registro de usuarios: Los usuarios deben poder registrarse en la aplicación utilizando su cuenta de Gmail.
 
@@ -17,7 +17,7 @@ Los usuarios deben poder ver el catálogo de productos de la distribuidora de al
 Los productos deben estar organizados por categorías y ser fácilmente accesibles para los usuarios.
 
 
-###Requerimientos no funcionales
+### Requerimientos no funcionales
 
 
 -Seguridad:
@@ -34,4 +34,4 @@ Se deben realizar pruebas de carga para garantizar que la aplicación pueda mane
 
 
 
-###Fin
+### Fin
