@@ -14,6 +14,7 @@ public class AppDistribuidora {
         int edadUsuario = scanner.nextInt();
         scanner.nextLine(); // Limpiar el buffer del scanner
 
+        //Solicitar Datos del vehiculo
         System.out.print("Ingrese la marca del vehículo: ");
         String marcaVehiculo = scanner.nextLine();
 
@@ -35,11 +36,11 @@ public class AppDistribuidora {
         System.out.println("\nDatos ingresados:");
         System.out.println("Nombre del usuario: " + nombreUsuario);
         System.out.println("Edad del usuario: " + edadUsuario);
-        System.out.println("Marca del vehículo: " + marcaVehiculo);
-        System.out.println("Modelo del vehículo: " + modeloVehiculo);
-        System.out.println("Cilindrada del vehículo: " + cilindradaVehiculo);
-        System.out.println("Tipo de combustible del vehículo: " + tipoCombustible);
-        System.out.println("Capacidad en pasajeros del vehículo: " + capacidadPasajeros);
+        System.out.println("La marca que ha ingresado es: " + marcaVehiculo);
+        System.out.println("El modelo que ha ingresado es: " + modeloVehiculo);
+        System.out.println("La cilindrada que ha ingresado es: " + cilindradaVehiculo);
+        System.out.println("El tipo de combustible es: " + tipoCombustible);
+        System.out.println("Capacidad de pasajeros: " + capacidadPasajeros);
 
         // Cerrar el scanner
         scanner.close();
