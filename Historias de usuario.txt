@@ -1,0 +1,48 @@
+Historias de usuario
+
+A continuacion se mostraran cinco historias de usuarios a partir de suposiciones del programa creado.
+
+1- Como usuario recurrente, quiero tener la opción de guardar productos en una lista de favoritos para agilizar futuras compras.
+
+Criterios de aceptación:
+*Los usuarios deben poder agregar y eliminar productos de su lista de favoritos.
+
+*La lista de favoritos debe ser accesible desde cualquier dispositivo donde el usuario inicie sesión.
+
+*Los productos guardados en la lista de favoritos deben permanecer incluso después de cerrar sesión en la aplicación.
+
+2- Como usuario nuevo, quiero recibir recomendaciones personalizadas de productos basadas en mis preferencias de compra y hábitos de navegación.
+
+Criterios de aceptación:
+*La aplicación debe recopilar datos sobre las preferencias de compra y el comportamiento de navegación de los usuarios.
+
+*Basándose en estos datos, la aplicación debe generar recomendaciones personalizadas de productos para cada usuario.
+
+*Los usuarios deben tener la opción de aceptar o rechazar estas recomendaciones, así como proporcionar retroalimentación sobre su relevancia.
+
+3- Como usuario, quiero tener la opción de programar entregas recurrentes de productos básicos, como leche y pan, para que no tenga que realizar pedidos repetitivos.
+
+Criterios de aceptación:
+*Los usuarios deben poder seleccionar la frecuencia de entrega de los productos básicos, como diaria, semanal o mensual.
+
+*La aplicación debe generar automáticamente pedidos recurrentes según la frecuencia seleccionada por el usuario.
+
+*Los usuarios deben poder realizar cambios en los pedidos recurrentes, como agregar o eliminar productos, cambiar la frecuencia de entrega, etc.
+
+4-Como usuario, quiero recibir notificaciones personalizadas sobre ofertas y promociones especiales en productos que suelen estar en mi carrito de compras o lista de favoritos.
+
+Criterios de aceptación:
+*La aplicación debe analizar el historial de compras y la actividad del usuario para identificar productos de interés.
+
+*Basándose en esta información, la aplicación debe enviar notificaciones personalizadas sobre ofertas y promociones relevantes.
+
+*Los usuarios deben tener la opción de configurar sus preferencias de notificación y la frecuencia con la que desean recibirlas.
+
+5- Como usuario, quiero tener la opción de compartir mi experiencia de compra en las redes sociales para recomendar productos a mis amigos y familiares.
+
+Criterios de aceptación:
+*La aplicación debe integrarse con varias plataformas de redes sociales, como Facebook, Twitter, Instagram, etc.
+
+*Los usuarios deben poder compartir fácilmente detalles sobre sus compras, como productos comprados, experiencias positivas, fotos de productos, etc.
+
+*La aplicación debe proporcionar incentivos, como descuentos o puntos de fidelidad, por compartir contenido en las redes sociales.
